@@ -1,5 +1,7 @@
 # intercom-ruby
 
+**Fork of intercom/intercom-ruby with specific command line scripts to perform tasks that are not accessible via Intercom's UI (ie: updating company name.)**
+
 Ruby bindings for the Intercom API (https://api.intercom.io).
 
 [API Documentation](https://api.intercom.io/docs)
